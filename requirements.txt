@@ -1,0 +1,12 @@
+colorama
+httpx[http2]
+tqdm
+pyfiglet
+dnspython
+tldextract
+ipwhois
+beautifulsoup4
+lxml
+mmh3
+waybackpy
+googlesearch-python
